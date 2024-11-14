@@ -1,0 +1,34 @@
+body{
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Libre Baskerville", serif;
+}
+
+header{
+    border-bottom: solid 1px rgb(255, 83, 1, 1);
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(255, 120, 1);
+}
+
+section{
+    background: rgb(255, 132, 1, 1);
+    padding-bottom: 70px;
+    padding-top: 70px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.chamada{
+    margin-right: 10%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 25px;
+}
